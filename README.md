@@ -6,13 +6,21 @@ Projeto Curso Gratuito e Online de Java da RocketSeat.
 
 <div align="center">
 <h4>
+
 <a href="#deploy-do-projeto"> Link Deploy</a>
 |
+<a href="#tecnologias-utilizadas">Tecnologias</a>
+|
 <a href="#como-usar">Como usar</a>
+
 </h4>
 </div>
 
-Tecnologias utilizadas:
+## Deploy do Projeto
+
+Projeto dísponivel no [Render.com](https://todolist-java-hlg6.onrender.com/)
+
+## Tecnologias utilizadas
 
 - Java
 - SpringBoot
@@ -21,13 +29,9 @@ Tecnologias utilizadas:
 - Lombok
 - BCrypt
 
-## Deploy do Projeto
-
-Projeto dísponivel no [Render.com](https://todolist-java-hlg6.onrender.com/)
-
 ## Como usar
 
-Faça requisições body HTTP usando POST, GET, PUT com o link do deploy [Render](#deploy-do-projeto) acrescentando mais informações na URL do deploy 
+Faça requisições body HTTP usando POST, GET, PUT com o link do deploy [Render](#deploy-do-projeto) acrescentando mais informações na URL do deploy.
 
 - URL-Deploy/[url](#urls)
 
